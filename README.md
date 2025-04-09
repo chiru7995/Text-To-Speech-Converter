@@ -8,7 +8,7 @@ This app uses the Web Speech API to convert your typed text into spoken words â€
 ## ðŸš€ Live Demo
 
 ðŸ”— [Live Site]()
-*(Replace with your GitHub Pages link after deployment)*
+*(https://chiru7995.github.io/Text-To-Speech-Converter/)*
 
 ---
 
@@ -28,3 +28,5 @@ This app uses the Web Speech API to convert your typed text into spoken words â€
 - JavaScript (Vanilla)
 
 ---
+## ðŸŒŸ Screenshot
+![Screenshot 2025-04-10 000927](https://github.com/user-attachments/assets/978f38fd-567a-443b-9c52-065587a88e85)
