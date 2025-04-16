@@ -29,4 +29,5 @@ This app uses the Web Speech API to convert your typed text into spoken words â€
 
 ---
 ## ðŸŒŸ Screenshot
-![Screenshot 2025-04-10 000927](https://github.com/user-attachments/assets/978f38fd-567a-443b-9c52-065587a88e85)
+![image](https://github.com/user-attachments/assets/1a9f8cda-0bf9-47c9-a642-fb47ef5d74e2)
+
